@@ -1,1 +1,1 @@
-# sync.sh
+# rsync
